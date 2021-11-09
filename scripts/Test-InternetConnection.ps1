@@ -9,8 +9,8 @@ Function Test-InternetConnection {
   .PARAMETER Wait
       Time to wait before retrying Test-Connection (seconds)
   .NOTES
-      Author     : Boe Prox
-      Created    : 05Feb2011
+      Author     : Boe Prox (modified by Adam Metcalf)
+      Created    : 05Feb2011 (modified 09Nov2021)
   .LINK
       https://boeprox.wordpress.com
   #>
